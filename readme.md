@@ -1,3 +1,3 @@
-this is add details
-git pull
--conflict
+#this is add details
+- git pull
+- conflict
